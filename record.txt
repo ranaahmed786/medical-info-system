@@ -1,0 +1,2 @@
+Name of patient: rana muhammad ahmed, Reg id of patient: 34e, Gender: male, Check-in date: 2024-05-30, Past medical history: asthema,kneepain, Disease: asthema
+Name of patient: a z d, Reg id of patient: 23, Gender: male, Check-in date: 2024-07-14, Past medical history: none, Disease: asthema
